@@ -7,7 +7,7 @@ package javalessontesting;
 
 /**
  *
- * @author 96416
+ * @author NjeriAbby
  */
 public class InvalidAgeException extends Exception {
     public InvalidAgeException(String customeMessage){
